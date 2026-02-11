@@ -166,7 +166,8 @@
 
 ### Proud Contributions
 <a href="https://github.com/symfony/symfony/commits?author=wakqasahmed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40" /> </a>
-<a href="https://github.com/akeneo/pim-community-dev/issues?q=is%3Aissue%20is%3Apr%20wakqasahmed" target="_blank" rel="noreferrer"> <img  src="https://avatars.githubusercontent.com/u/2510186?s=200&v=4" alt="akeneo" width="40" height="40" /> </a><br />
+<a href="https://github.com/akeneo/pim-community-dev/issues?q=is%3Aissue%20is%3Apr%20wakqasahmed" target="_blank" rel="noreferrer"> <img  src="https://avatars.githubusercontent.com/u/2510186?s=200&v=4" alt="akeneo" width="40" height="40" /> </a>
+<a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls/wakqasahmed" target="_blank" rel="noreferrer"> <img  src="https://avatars.githubusercontent.com/u/9892522?s=200&v=4" alt="freecodecamp" width="40" height="40" /> </a><br />
                         
 ---
 [![](https://visitcount.itsvg.in/api?id=wakqasahmed&icon=0&color=0)](https://visitcount.itsvg.in)
