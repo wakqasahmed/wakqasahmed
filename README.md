@@ -13,8 +13,8 @@
 <br />
 
 ### About Me 🚀
-🌱 I am a Full stack developer with Masters degrees in multiple areas of Computer Science. </br>
-👨‍💻  I am passionate about Web2, Web3 Dev and a constant learner. </br>
+🌱 I am an Agentic AI Engineer with Masters degrees in multiple areas of Computer Science. </br>
+👨‍💻  I am passionate about Agentic AI, Web2->Web3, Agentic Commerce, Blockchain and I am a constant learner. </br>
 
 ### Languages and Tools
 
