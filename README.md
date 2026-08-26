@@ -69,13 +69,9 @@ Most of this is done with Claude Code, in an AI-augmented workflow I built for m
 
 ### 📊 GitHub stats
 
-![](https://github-readme-stats.vercel.app/api?username=wakqasahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=wakqasahmed&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wakqasahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=wakqasahmed&theme=dark&hide_border=false)
 
-**🔝 Top contributed repos** (live, updates as new PRs merge):
-
-![](https://github-contributor-stats.vercel.app/api?username=wakqasahmed&limit=8&theme=dark&combine_all_yearly_contributions=true)
+![](https://ghchart.rshah.org/wakqasahmed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wakqasahmed&icon=0&color=0)](https://visitcount.itsvg.in)
